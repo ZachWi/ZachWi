@@ -1,5 +1,5 @@
 Im Zachary Willis or @ZachWi.
-My page has a main focus on electrical engineering and fun python scripts.
+My page has a main focus on electrical engineering and fun python/rust scripts.
 Thank you for your time, it is always appreciated.
 If any questions arise, email me at Constellationagram@gmail.com.
 Have fun!
